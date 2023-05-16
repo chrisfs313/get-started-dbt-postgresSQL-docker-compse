@@ -1,0 +1,1 @@
+docker-compose -f .\dbt\docker-compose-postgres-dbt.yml down --remove-orphans --volumes
