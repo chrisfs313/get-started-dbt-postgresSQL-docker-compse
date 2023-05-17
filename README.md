@@ -1,4 +1,4 @@
-# get-started-dbt-postgresSQL-docker-compse
+# Get started with dockerized DBT with PostgreSQL and using Docker-Compose for building up the environment
 Project with Docker and Docker-Compose: Raise a PostgreSQL and a DBT with a base project and base schema, the commands to execute it, in the project root:
 
 - LocalDevUp.ps1 -> To build the whole project, it will check the consistency of the DBT project and automatically enter the container so that the user can call their own DBT commands.
